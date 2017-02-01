@@ -1,2 +1,2 @@
 # KataOhce
-Implementation of the Ohce kata
+Implementation of the Ohce kata in a meeting of madriddotnet (https://github.com/madriddotnet) user group with Alberto Abad.

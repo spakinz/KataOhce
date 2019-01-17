@@ -4,9 +4,9 @@ using OhceKata.Services;
 
 namespace OhceKata
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             var service = new OhceService(new DateTimeProvider(), new MessagePrinter(), () =>
             {
